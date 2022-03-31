@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using NalaTest.Application.Interfaces;
 using NalaTest.Domain.Entity;
 using NalaTest.Domain.Entity.DTOs;
